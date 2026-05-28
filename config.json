@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersalidate",
+        "uuid": 16889089,
+        "checksum": "6t53is"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
